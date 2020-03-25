@@ -1,0 +1,56 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Sans-serif	;
+}
+.header{
+    float:right;
+    padding :10px 20px 0px; 
+}
+ .header a, .header button{
+     text-decoration: none;
+     margin: 5px;
+     color:black;
+ }
+
+ .header button{
+     background : rgb(52, 128, 235);
+     padding: 8px;
+     font-size:15px;
+     color:#ffff;
+     border-radius:10%;
+    font-family: Arial, Helvetica, sans-serif; 
+    }
+
+.logoImg{
+    margin-top: 10%;
+    width: 500px;
+    height: 200px;
+    margin-left: 30%;
+}
+
+.searchBox{
+    width: 664px;
+    height: 42px;
+    margin-left: 25%;
+}
+
+.btn{
+    margin-left : 32%;
+    
+}
+
+.btn button{
+    width:10px;
+    height: 50px;
+    border-radius: 4px;
+    background-color: 237, 226, 225;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 17px;
+    padding: 20px;
+    width: 200px;
+    margin: 5px;
+}
